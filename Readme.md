@@ -28,11 +28,13 @@ __Project By__
 MSc-IT, Maharaja Sayajirao University
 Subject: Web Technology-Project 3
 
-Name: Rinki Shivani
+Team memebers:
+
+1. Rinki Shivani
 Github Profile: https://github.com/rinkishivani
 
-Name: Kashish Chhabda
+2. Kashish Chhabda
 Github Profile: https://github.com/kashishchhabda
 
-Name: Aamir Shaikh
+3. Aamir Shaikh
 Github Profile:
