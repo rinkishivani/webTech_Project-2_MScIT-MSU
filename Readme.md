@@ -8,7 +8,7 @@ Simple Create, Read, Update, Delete (CRUD) in PHP & MySQL
 
 Student Information System to view, download results and attendence for user, view, edit and download results and attendence for admin using PHP and MySQL.
 
-__Database Credentials__:
+__Database Credentials__
 
 SQL script to create database and tables is present in _config.php_ file.
 
@@ -26,7 +26,7 @@ $dbDatabase = 'student_info_system';
 __Project By__
 
 MSc-IT, Maharaja Sayajirao University
-Subject: Web Technology-Project 3
+Subject: Web Technology-Project 2
 
 Team memebers:
 
